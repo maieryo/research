@@ -17,5 +17,4 @@ ggsave("Post_Rec.png", dpi = 500, width = 10, height = 8)
 mod.trial <- lm(TrialCount_Ses2 ~ InitialSpacing*RelearnSpacing*scale(LABJT), data = d)
 summary(mod.trial)
 plot_model(mod.trial, type = "pred", terms = c("LABJT", "InitialSpacing", "RelearnSpacing")) + theme_bw() + ggtitle("RelearnSpacing")
-
 ggsave("Post_Trial.png", dpi = 500, width = 10, height = 8)
