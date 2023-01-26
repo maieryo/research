@@ -1,5 +1,5 @@
 ## Repository for datasets from my weight loss streak
-**WeightLoss2019.xlsx** is an excel file that contains data from my weight-loss streak in 2020. <br>
+**WeightLoss2019.xlsx** is an excel file that contains data from my weight-loss streak in 2020-2021. <br>
 The file contains six variables: <br>
 (a) Date = The dates of data points <br>
 (b) kg = Actual weight in kilograms <br>
