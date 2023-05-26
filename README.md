@@ -1,4 +1,5 @@
 ### Repository for datasets from my sleep patterns
+------------------------------------------------------------
 SleepData.xlsx is an excel file that contains my sleep data collected using Fitbit Charge 5. 
 The file contains seven variables:
 (a) Date = The dates of data points
